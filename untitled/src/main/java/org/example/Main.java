@@ -4,6 +4,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         CaesarŞifreleme CaesarŞifreleme = new CaesarŞifreleme();
+        CaesarŞifreleme.basla();
     }
 
         }
